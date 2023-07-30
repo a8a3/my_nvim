@@ -49,4 +49,6 @@ require("lazy").setup({
     {'jose-elias-alvarez/null-ls.nvim'},
     -- brackets auto pair
     {'windwp/nvim-autopairs'},
+    -- buffline (shows buffers as tabs)
+    {"akinsho/bufferline.nvim", dependencies = {'nvim-tree/nvim-web-devicons'}},
 })

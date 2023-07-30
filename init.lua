@@ -13,4 +13,4 @@ require('plugins.mason')
 require('plugins.telescope')
 require('plugins.nullls')
 require('plugins.autopairs')
-
+require('plugins.buffline')
